@@ -14,8 +14,8 @@ The written script uses the Perspective-n-point (PnP) algorithm available in the
 ## Getting the code
 Clone this repository to your local system or download the source code and navigate to the directory it is saved in. 
 ```bash
-git clone <>
-cd <>
+git clone https://github.com/SchMah/multi_camera_calibration.git
+cd PATH/TO/PROJECT/FOLDER
 ```
 ## Setup the environment
 You can either use conda or Python's built in venv.

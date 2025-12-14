@@ -91,12 +91,12 @@ A JSON file containing the extrinsics for each camera:
 {
     "cam0": {
         "R": [
-            [...],
-            [...],
-            [...]
+            [ ],
+            [ ],
+            [ ]
         ],
-        "T": [...]
+        "T": [ ]
     },
     "cam1": {
-            ...
+            
 ```
